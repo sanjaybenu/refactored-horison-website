@@ -1,14 +1,14 @@
-/*-------Universal Styling------------*/
+/* Global Styling */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/*-----------Styling Body-------------*/
+/* Styling Body */
 body {
     background-color: #d9dcd6;
 }
-/*-----------Styling header-------------*/
+/* Styling header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,7 +24,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-/*-----------------Changed div to nav------------------*/
+/* Changed div to nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-/*-----------Styling Image Under Header-------------*/
+/* Styling Image Under Header */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-/*-----------Styling Section Content-------------------*/
+/* Styling Section Content */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/*-----------------------Styling section-content to provide common styling to contents----------*/
+/* Styling section-content to provide common styling to contents */
 .section-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -94,7 +94,7 @@ p {
     font-size: 36px;
 }
 
-/*-----Styling section benefits------*/
+/* Styling section benefits */
 
 .benefits {
     margin-right: 20px;
@@ -107,7 +107,7 @@ p {
     background-color: #2589bd;
 }
 
-/*-----class section-benefits to provide common styling to benefits---*/
+/* Class section-benefits to provide common styling to benefits */
 
 .section-benefits {
     margin-bottom: 32px;
@@ -124,7 +124,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/*------Styling Footer--------*/
+/* Styling Footer */
 
 .footer {
     padding: 30px;
